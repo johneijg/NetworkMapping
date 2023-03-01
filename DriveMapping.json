@@ -1,0 +1,17 @@
+[{
+		"Path": "\\\\dummy.domain.nl\\gebruikers$\\$env:USERNAME",
+		"DriveLetter": "G",
+		"Label": null,
+		"Id": 1,
+		"GroupFilter": "fg-Dfsgroup",
+		"OUFilter": null
+	},
+	{
+		"Path": "\\\\dummy.domain.nl\\data$\\informatie",
+		"DriveLetter": "H",
+		"Label": null,
+		"Id": 2,
+		"GroupFilter": "Informatie",
+		"OUFilter": null
+	}
+]
